@@ -15,11 +15,11 @@ using pip
 
 on linux
 
-	sudo pip install -e hg+https://bitbucket.org/martin_delagorce/polygonintegrals#egg=polygonintegrals
+	sudo pip install git+git://github.com/martinResearch/PolygonalRegionIntegrals
 
 on windows
 
-	pip install -e hg+https://bitbucket.org/martin_delagorce/polygonintegrals#egg=polygonintegrals
+	pip install install git+git://github.com/martinResearch/PolygonalRegionIntegrals
 
 # Mathematical specification of the computed integral and its derivatives
 

@@ -1,9 +1,6 @@
-syntax: glob
-
 polygonintegrals/*.c
 polygonintegrals/*.html
 polygonintegrals/*.pyc
 polygonintegrals/*.pyd
 polygonintegrals/*.pyx
 polygonintegrals/*.py~
-build/*
