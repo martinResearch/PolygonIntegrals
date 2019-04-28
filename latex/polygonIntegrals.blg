@@ -1,0 +1,18 @@
+This is 8-bit Big BibTeX version 0.99c
+Implementation:  WIN32 Console, BaKoMa TNS bound.
+Release version: 3.71 (18 Aug 1996)
+
+The top-level auxiliary file: polygonIntegrals.aux
+The style file: plain.bst
+Database file #1: biblio.bib
+Warning--empty publisher in Hintermuller2004a
+Warning--can't use both volume and number fields in Wu1991
+
+Here's how much of BibTeX's memory you used:
+ Cites:                21 out of 7500
+ Fields:              334 out of 125000
+ Hash table:        34838 out of 35000
+ Strings:             653 out of 30000
+ String pool:        6913 out of 750000
+ Wizard functions:   2118 out of 10000
+(There were 2 warnings)

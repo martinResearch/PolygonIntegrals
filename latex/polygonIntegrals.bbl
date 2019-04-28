@@ -1,0 +1,114 @@
+\begin{thebibliography}{10}
+
+\bibitem{Auzinger2015}
+Thomas Auzinger.
+\newblock {\em {Sampled and Prefiltered Anti-Aliasing on Parallel Hardware}}.
+\newblock PhD thesis, Technischen Universit{\"{a}}t Wien, 2015.
+
+\bibitem{Bar2009}
+L.~Bar and G.~Sapiro.
+\newblock Generalized newton-type methods for energy formulations in image
+  processing.
+\newblock {\em SIIMS}, 2(2):508--531, 2009.
+
+\bibitem{Bresenham1965}
+J.E. Bresenham.
+\newblock Algorithm for computer control of a digital plotter.
+\newblock {\em IBM System Journal}, 4(1):25--30, 1965.
+
+\bibitem{Burger2003}
+M.~Burger.
+\newblock Levenberg-marquardt level set methods for inverse obstacle problems.
+\newblock {\em Inverse Problems}, 20:20--259, 2003.
+
+\bibitem{Catmull1978}
+E.~Catmull.
+\newblock A hidden-surface algorithm with anti-aliasing.
+\newblock In {\em SIGGRAPH}, pages 6--11, 1978.
+
+\bibitem{Cheng1992}
+R.C.H Cheng.
+\newblock Fast linear color rendering.
+\newblock {\em Graphics gems}, 3:343--354, 1992.
+
+\bibitem{DeLaGorce2009}
+Martin {De La Gorce}.
+\newblock {\em {Model-based 3D Hand Pose Estimation from Monocular Video}}.
+\newblock PhD thesis, Ecole centrale Paris, 2009.
+
+\bibitem{Duff1989}
+T.~Duff.
+\newblock Polygon scan conversion by exact convolution.
+\newblock {\em Raster Imaging \& Digital Typography}, 1989.
+
+\bibitem{Foley1996}
+J.D. Foley, A.~van Dam, S.K. Feiner, and J.F. Hughes.
+\newblock {\em Computer graphics (2nd ed. in C): principles and practice}.
+\newblock Addison-Wesley Longman Publishing Co., Inc., Boston, MA, USA, 1996.
+
+\bibitem{Fujimoto1983}
+A.~Fujimoto and K.~Iwata.
+\newblock Jag-free images on raster displays.
+\newblock {\em Computer Graphics and Applications}, 3(9):26--34, 1983.
+
+\bibitem{Hintermuller2004a}
+M.~Hinterm\"uller.
+\newblock {A combined shape Newton and topology optimization technique in real
+  time image segmentation}.
+\newblock In {\em Real-Time PDE-Constrained Optimization}, volume~3, pages
+  253--274. 2007.
+
+\bibitem{Hintermuller2004b}
+M.~Hinterm{\"u}ller and W.~Ring.
+\newblock A second order shape optimization approach for image segmentation.
+\newblock {\em SIAM Journal of Applied Mathematics}, 64(2):442--467, 2004.
+
+\bibitem{Liggett1988}
+J.A. Liggett.
+\newblock Exact formulae for areas, volumes and moments of polygons and
+  polyhedra.
+\newblock {\em Communications in applied numerical methods}, 4:815--820, 1988.
+
+\bibitem{Manson2013}
+Josiah Manson and Scott Schaefer.
+\newblock {Analytic rasterization of curves with polynomial filters}.
+\newblock {\em Computer Graphics Forum}, 32(2 PART4):499--507, 2013.
+
+\bibitem{McCool1995}
+M.D. McCool.
+\newblock Analytic antialiasing with prism splines.
+\newblock In {\em SIGGRAPH}, pages 429--436, New York, NY, USA, 1995. ACM.
+
+\bibitem{Pitteway1980}
+M.L.V. Pitteway and D.J. Watkinson.
+\newblock Bresenham's algorithm with grey scale.
+\newblock {\em Commun. ACM}, 23(11):625--626, 1980.
+
+\bibitem{Singer1993}
+M.H. Singer.
+\newblock A general approach to moment calculation for polygons and line
+  segments.
+\newblock {\em PR}, 26(7):1019--1028, 1993.
+
+\bibitem{Steger1996}
+C.~Steger.
+\newblock On the calculation of moments of polygons.
+\newblock Technical Report FGBV--96--04, Forschungsgruppe Bildverstehen (FG
+  BV), Informatik IX, Technische Universit{\"a}t M{\"u}nchen, August 1996.
+
+\bibitem{Strachan1990}
+N.J.C. Strachan, P.~Nesvadba, and A.R. Allen.
+\newblock A method for working out the moments of a polygon.
+\newblock {\em PRL}, 11:351--354, 1990.
+
+\bibitem{Tumblin2006}
+J.~Tumblin.
+\newblock Exact two-dimensional integration inside quadrilateral boundaries.
+\newblock {\em Journal of Graphics, GPU and Game Tools}, 11(1):61--71, 2006.
+
+\bibitem{Wu1991}
+X.~Wu.
+\newblock An efficient antialiasing technique.
+\newblock In {\em SIGGRAPH}, volume~25, pages 143--152, 1991.
+
+\end{thebibliography}
