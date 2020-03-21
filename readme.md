@@ -156,12 +156,12 @@ Section 3.5 from *Model-based 3D Hand Pose Estimation from Monocular Video*. M. 
 
 [1] Martin de La Gorce *Model-based 3D hand pose estimation from monocular video* PhD Ecole Centrale de Paris 2009 [pdf](https://tel.archives-ouvertes.fr/tel-00619637/document)
 
-[2] Gozde Unal, Anthony Yezzi and Hamid Krim *Information-Theoretic Active Polygons for Unsupervised Texture Segmentation* IJCV 2014. 
+[2] Gozde Unal, Anthony Yezzi and Hamid Krim *Information-Theoretic Active Polygons for Unsupervised Texture Segmentation* IJCV 2014. [pdf](http://lccv.ece.gatech.edu/docs/ijcv_Information_Theoretic_Active_Polygons.pdf) 
 active polygons for object tracking
 
-[3] Gozde Unal, Hamid Krim and Anthony Yezzi *Active Polygons for Object Tracking*. In IEEE 1st Int. Conf. 3D Data Processing and Visualization and Transmission 2002
+[3] Gozde Unal, Hamid Krim and Anthony Yezzi *Active Polygons for Object Tracking*. In IEEE 1st Int. Conf. 3D Data Processing and Visualization and Transmission 2002. [pdf](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.18.2576)
 
 [4] Josiah Manson and Scott Schaefer *Analytic Rasterization of Curves with Polynomial Filters* Computer Graphics Forum (Proceedings of Eurographics) 2013
-[code here](http://josiahmanson.com/research/scanline_rasterization/)
+[pdf](http://faculty.cs.tamu.edu/schaefer/research/scanline.pdf)[code](http://josiahmanson.com/research/scanline_rasterization/)
 
-[5] *Analytic Visibility on the GPU* Thomas Auzinger, Michael Wimmer, Stefan Jeschke Computer Graphics Forum 2013
+[5] *Analytic Visibility on the GPU* Thomas Auzinger, Michael Wimmer, Stefan Jeschke Computer Graphics Forum 2013. [pdf](https://www.cg.tuwien.ac.at/research/publications/2013/Auzinger_2013_AnaVis/Auzinger_2013_AnaVis-Paper.pdf)
