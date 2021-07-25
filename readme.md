@@ -6,8 +6,7 @@ It also provides as a by-product the possibility to draw the image of a **filled
 The  details on the maths and their exact implementations are in my PhD thesis [1] [pdf](https://tel.archives-ouvertes.fr/tel-00619637/document) in section 3.5 and in the annexe p199-204. 
 
 
-**Note**: This code also allows to draw polygons with exact prefilter antialising, but that is not the main goal of this library. If your goal is only to perform antialized 2D polygon rendering you could use the c++ code accompanying the paper [4]( without python bindings). You can also get good antialiasing (exact?) using [aggdraw](https://pypi.python.org/pypi/aggdraw/1.1-20051010), Qt, Cairo or [Blend2D](https://blend2d.com/about.html).
-
+**Note**: This code also allows to draw polygons with exact prefilter antialising, but that is not the main goal of this library. If your goal is only to perform antialized 2D polygon rendering you could use the c++ code accompanying the paper [4]( without python bindings). You can also get good antialiasing (exact?) in python using python bindings [aggdraw](https://pypi.python.org/pypi/aggdraw/1.1-20051010), or [PyCairo](https://pycairo.readthedocs.io)
 
 # Installation
 
